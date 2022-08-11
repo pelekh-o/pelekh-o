@@ -13,7 +13,6 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" title="ELK" alt="ELK" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" title="New Relic" alt="New Relic" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -27,11 +26,8 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
  </div>
  
 ### ✨ Certifications
@@ -41,5 +37,8 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
   </a>
   <a href="https://www.credly.com/badges/66320d5b-ff61-4c84-983d-63fa651f4c8f/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" title="Microsoft Certified: Azure Fundamentals" alt="Microsoft Certified: Azure Fundamentals" width="110" height="110">
+  </a>
+  <a href="https://www.credly.com/badges/ac1ef034-2e13-49eb-8a56-597b8c41aab0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png" title="Astronomer Certification for Apache Airflow Fundamentals" alt="Astronomer Certification for Apache Airflow Fundamentals" width="110" height="110">
   </a>
 </div>
