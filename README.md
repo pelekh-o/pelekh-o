@@ -39,6 +39,18 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
     <img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" title="Microsoft Certified: Azure Fundamentals" alt="Microsoft Certified: Azure Fundamentals" width="110" height="110">
   </a>
   <a href="https://www.credly.com/badges/ac1ef034-2e13-49eb-8a56-597b8c41aab0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png" title="Astronomer Certification for Apache Airflow Fundamentals" alt="Astronomer Certification for Apache Airflow Fundamentals" width="110" height="110">
+    <img
+      src="https://github.com/pelekh-o/pelekh-o/blob/main/astronomer_certification_for_apache_airflow_fundamentals.png"
+      title="Astronomer Certification for Apache Airflow Fundamentals"
+      alt="Astronomer Certification for Apache Airflow Fundamentals" width="110" height="110">
+  </a>
+  <a href="https://verify.skilljar.com/c/tddkawpy3f5a" target="_blank">
+    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/sumo_fundamentals.png" title="Sumo Logic - Certificate for Fundametals Exam" alt="Sumo Logic - Certificate for Fundametals Exam" width="110" height="110">
+  </a>
+  <a href="https://verify.skilljar.com/c/b4j96tw7ygxr" target="_blank">
+    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/sumo_observability_fundamentals.png" title="Sumo Logic - Certificate for Observability Fundamentals Exam" alt="Sumo Logic - Certificate for Observability Fundamentals Exam" width="110" height="110">
+  </a>
+  <a href="https://verify.skilljar.com/c/bo2qc5or6ywo" target="_blank">
+    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/sumo_search_mastery.png" title="Sumo Logic - Certificate for Search Mastery Exam" alt="Sumo Logic - Certificate for Search Mastery Exam" width="110" height="110">
   </a>
 </div>
