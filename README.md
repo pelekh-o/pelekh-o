@@ -13,6 +13,7 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" title="ELK" alt="ELK" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" title="New Relic" alt="New Relic" width="40" height="40"/>&nbsp;
+  <img src="https://media.glassdoor.com/sqll/621848/sumo-logic-squarelogo-1547782850792.png" title="Sumo Logic" alt="Sumo Logic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -40,17 +41,17 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
   </a>
   <a href="https://www.credly.com/badges/ac1ef034-2e13-49eb-8a56-597b8c41aab0/public_url" target="_blank">
     <img
-      src="https://github.com/pelekh-o/pelekh-o/blob/main/astronomer_certification_for_apache_airflow_fundamentals.png"
+      src="https://github.com/pelekh-o/pelekh-o/blob/main/imgs/certificate_badges/astronomer_certification_for_apache_airflow_fundamentals.png"
       title="Astronomer Certification for Apache Airflow Fundamentals"
       alt="Astronomer Certification for Apache Airflow Fundamentals" width="110" height="110">
   </a>
   <a href="https://verify.skilljar.com/c/tddkawpy3f5a" target="_blank">
-    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/sumo_fundamentals.png" title="Sumo Logic - Certificate for Fundametals Exam" alt="Sumo Logic - Certificate for Fundametals Exam" width="110" height="110">
+    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/imgs/certificate_badges/sumo_fundamentals.png" title="Sumo Logic - Certificate for Fundametals Exam" alt="Sumo Logic - Certificate for Fundametals Exam" width="110" height="110">
   </a>
   <a href="https://verify.skilljar.com/c/b4j96tw7ygxr" target="_blank">
-    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/sumo_observability_fundamentals.png" title="Sumo Logic - Certificate for Observability Fundamentals Exam" alt="Sumo Logic - Certificate for Observability Fundamentals Exam" width="110" height="110">
+    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/imgs/certificate_badges/sumo_observability_fundamentals.png" title="Sumo Logic - Certificate for Observability Fundamentals Exam" alt="Sumo Logic - Certificate for Observability Fundamentals Exam" width="110" height="110">
   </a>
   <a href="https://verify.skilljar.com/c/bo2qc5or6ywo" target="_blank">
-    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/sumo_search_mastery.png" title="Sumo Logic - Certificate for Search Mastery Exam" alt="Sumo Logic - Certificate for Search Mastery Exam" width="110" height="110">
+    <img src="https://github.com/pelekh-o/pelekh-o/blob/main/imgs/certificate_badges/sumo_search_mastery.png" title="Sumo Logic - Certificate for Search Mastery Exam" alt="Sumo Logic - Certificate for Search Mastery Exam" width="110" height="110">
   </a>
 </div>
