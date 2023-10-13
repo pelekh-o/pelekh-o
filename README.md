@@ -13,13 +13,13 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" title="ELK" alt="ELK" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/N/new-relic-logo-E7CC1E9143-seeklogo.com.png" title="New Relic" alt="New Relic" width="40" height="40"/>&nbsp;
-  <img src="https://media.glassdoor.com/sqll/621848/sumo-logic-squarelogo-1547782850792.png" title="Sumo Logic" alt="Sumo Logic" width="40" height="40"/>&nbsp;
+  <img src="https://www.cloudfoundry.org/wp-content/uploads/2017/10/icon_sumologic_v2@2x.png" title="Sumo Logic" alt="Sumo Logic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
+  <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -33,6 +33,9 @@ I am an Operational Intelligence/DWBI Engineer from Ukraine💙💛
  
 ### ✨ Certifications
 <div>
+  <a href="https://www.credential.net/85da5e51-64f3-44e8-a00d-b6906991e869#gs.6buov0" target="_blank">
+    <img src="imgs/certificate_badges/newrelic_fs_op.png" title="New Relic - Full Stack Observability Practitioner Exam" alt="New Relic - Full Stack Observability Practitioner Exam" width="100" height="110">
+  </a>
   <a href="https://www.credly.com/badges/0784b264-63ae-4567-ba90-560749c90c6e/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="Microsoft Certified: Azure Fundamentals" alt="Microsoft Certified: Azure Fundamentals" width="110" height="110">
   </a>
